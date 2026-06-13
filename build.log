@@ -1,0 +1,48 @@
+Configuration file: /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_config.yml
+            Source: /home/runner/work/xiesenwei.github.io/xiesenwei.github.io
+       Destination: /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+DEPRECATION WARNING: to_time will always preserve the timezone offset of the receiver in Rails 8.0. To opt in to the new behavior, set `ActiveSupport.to_time_preserves_timezone = true`. (called from load at /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/vendor/bundle/ruby/3.3.0/bin/jekyll:25)
+       Jekyll Feed: Generating feed for posts
+       Imagemagick: Searching files in /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/assets/img/
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/profile-480.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/profile-480.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/profile-800.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/profile-800.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/profile-1400.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/profile-1400.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/arslice-480.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/arslice-480.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/arslice-800.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/arslice-800.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/arslice-1400.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/arslice-1400.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/m4u-480.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/m4u-480.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/m4u-800.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/m4u-800.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/m4u-1400.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/m4u-1400.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/robopro-480.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/robopro-480.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/robopro-800.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/robopro-800.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/robopro-1400.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/robopro-1400.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/skillnet-480.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/skillnet-480.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/skillnet-800.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/skillnet-800.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/skillnet-1400.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/skillnet-1400.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/uniskill-480.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/uniskill-480.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/uniskill-800.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/uniskill-800.webp
+       Imagemagick: Generating image "/home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/uniskill-1400.webp"
+       Imagemagick: Adding static file /home/runner/work/xiesenwei.github.io/xiesenwei.github.io/_site/assets/img/publication_preview/uniskill-1400.webp
+       Imagemagick: Generated 18 file(s)
+         AutoPages: Disabled/Not configured in site.config.
+[33m        Pagination: Is enabled, but I couldn't find any pagination page. Skipping pagination. Pages must have 'pagination: enabled: true' in their front-matter for pagination to work.[0m
+        Pagination: Complete, processed pagination page(s)

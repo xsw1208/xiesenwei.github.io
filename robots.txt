@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://xsw1208.github.io/xiesenwei.github.io/sitemap.xml
