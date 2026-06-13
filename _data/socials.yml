@@ -2,4 +2,3 @@
 # Keep only non-empty values; some social renderers are strict about nil fields.
 email: xiesenwei1208@163.com
 github_username: xsw1208
-rss_icon: false
