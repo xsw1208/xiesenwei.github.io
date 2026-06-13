@@ -1,0 +1,23 @@
+"zhang":
+  - firstname: ["Yuntian"]
+
+"tan":
+  - firstname: ["Zhenzhou"]
+
+"wang":
+  - firstname: ["Ruiping"]
+  - firstname: ["Pengwei"]
+  - firstname: ["Hongyu"]
+  - firstname: ["Yu-Ping", "Yuping"]
+
+"chen":
+  - firstname: ["Xilin"]
+
+"xiao":
+  - firstname: ["Zhanqi"]
+
+"xu":
+  - firstname: ["Jiayu"]
+
+"li":
+  - firstname: ["Jialin"]
