@@ -101,12 +101,16 @@ jobs:
             echo "::group::Jekyll build tail"
             tail -120 build.log
             echo "::endgroup::"
+            grep -Ei "Liquid Exception|Error:|ERROR|Exception|No such file|Could not|Invalid|undefined|unknown|failed" build.log | tail -20 > build-key-errors.log || true
+            if [ ! -s build-key-errors.log ]; then
+              tail -20 build.log > build-key-errors.log
+            fi
             while IFS= read -r line; do
               line="${line//'%'/'%25'}"
               line="${line//$'\r'/'%0D'}"
               line="${line//$'\n'/'%0A'}"
               echo "::error title=Jekyll build failed::$line"
-            done < <(tail -40 build.log)
+            done < build-key-errors.log
             exit 1
           fi
       - name: Purge unused CSS 🧹

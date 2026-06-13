@@ -6,7 +6,7 @@ subtitle: Embodied AI, generalizable robotic manipulation, skill-centric VLA mod
 
 profile:
   align: right
-  image: profile.png
+  image:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Institute of Computing Technology, Chinese Academy of Sciences</p>
