@@ -26,23 +26,18 @@ latest_posts:
 
 {% include publication-preview-size.html %}
 
-I am Senwei Xie (解森炜 in Chinese), a third year Ph.D candidate at Institute of
-Computing Technology, Chinese Academy of Sciences (ICT, CAS) under the
-supervision of Professor Xilin Chen. Before that, I received my B.S. from the
-Department of Physics at Tsinghua University.
+I am Senwei Xie (解森炜 in Chinese), a third-year Ph.D. candidate at the
+Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS),
+under the supervision of Professor Xilin Chen. Before that, I received my B.S.
+from the Department of Physics at Tsinghua University.
 
-My research focuses on embodied AI and robotic manipulation. I am interested in
-how robots can acquire, organize, and reuse skills so that they generalize to
-new task compositions, new behavior categories, and new environments. Recent
-projects include hierarchical skill modeling for vision-language-action models,
-self-evolving skill repositories, compact action tokenization, and
-video-instructed policy-code generation.
-
-I also work on multimodal model evaluation, especially multilingual and
-multi-discipline reasoning benchmarks that reveal capability gaps in large
-multimodal models.
-
-I also have experience with large-scale world model pre-training and deployments
-on diverse real-world robots.
+My research focuses on embodied AI, robotic manipulation, and multimodal model
+evaluation. I am interested in how robots can acquire, organize, and reuse
+skills so that they generalize to new task compositions, new behavior
+categories, and new environments. Recent projects include hierarchical skill
+modeling for vision-language-action models, self-evolving skill repositories,
+compact action tokenization, video-instructed policy-code generation,
+multilingual and multi-discipline reasoning benchmarks, and large-scale world
+model pre-training and deployment across diverse real-world robots.
 
 Contact: xiesenwei1208@163.com
