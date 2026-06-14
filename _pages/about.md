@@ -42,4 +42,7 @@ I also work on multimodal model evaluation, especially multilingual and
 multi-discipline reasoning benchmarks that reveal capability gaps in large
 multimodal models.
 
+I also have experience with large-scale world model pre-training and deployments
+on diverse real-world robots.
+
 Contact: xiesenwei1208@163.com
