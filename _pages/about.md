@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+{% include publication-preview-size.html %}
+
 I am a Ph.D. student in Computer Science and Technology at the Institute of
 Computing Technology, Chinese Academy of Sciences. Before that, I received my
 B.S. in Mathematics and Physics Basic Science from the Department of Physics at
