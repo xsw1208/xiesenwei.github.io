@@ -39,3 +39,11 @@ B.S., Mathematics and Physics Basic Science, Department of Physics, 2019.09 -
 4. Hongyu Wang*, Jiayu Xu*, **Senwei Xie***, et al. M4U: Evaluating
    Multilingual Understanding and Reasoning for Large Multimodal Models. WACV
    2026.
+
+5. Huaihai Lyu, Chaofan Chen, **Senwei Xie**, Pengwei Wang, Xiansheng Chen,
+   Shanghang Zhang, Changsheng Xu. OmniSAT: Compact Action Token, Faster Auto
+   Regression. arXiv 2025.
+
+6. Yu-Ping Wang, **Sen-Wei Xie**, Li-Hui Wang, Hongjin Xu, Satoshi Tabata,
+   Masatoshi Ishikawa. ARSlice: Head-Mounted Display Augmented with Dynamic
+   Tracking and Projection. Journal of Computer Science and Technology, 2022.

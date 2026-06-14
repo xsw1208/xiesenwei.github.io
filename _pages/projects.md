@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research projects in embodied AI and multimodal reasoning.
 nav: true
 nav_order: 3
-display_categories: [embodied-ai, evaluation]
+display_categories: [embodied-ai, augmented-reality, evaluation]
 horizontal: false
 ---
 

@@ -6,7 +6,7 @@ subtitle: Embodied AI, generalizable robotic manipulation, skill-centric VLA mod
 
 profile:
   align: right
-  image:
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Institute of Computing Technology, Chinese Academy of Sciences</p>
@@ -36,7 +36,8 @@ My research focuses on embodied AI and robotic manipulation. I am interested in
 how robots can acquire, organize, and reuse skills so that they generalize to
 new task compositions, new behavior categories, and new environments. Recent
 projects include hierarchical skill modeling for vision-language-action models,
-self-evolving skill repositories, and video-instructed policy-code generation.
+self-evolving skill repositories, compact action tokenization, and
+video-instructed policy-code generation.
 
 I also work on multimodal model evaluation, especially multilingual and
 multi-discipline reasoning benchmarks that reveal capability gaps in large

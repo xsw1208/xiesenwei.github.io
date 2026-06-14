@@ -26,6 +26,19 @@ A fixed skill library limits adaptation to new tasks. I am interested in agents
 that can detect missing skills, generate new skill functions, and continuously
 expand their manipulation capabilities.
 
+## Compact action tokenization
+
+Efficient auto-regressive robot policies depend on compact action
+representations. I study action tokenizers that compress high-dimensional robot
+trajectories while preserving reconstruction quality and transferability across
+embodiments.
+
+## Augmented-reality display systems
+
+My earlier work explored head-mounted display systems that combine optical
+design, high-speed tracking, and dynamic projection for interactive augmented
+reality.
+
 ## Multimodal and multilingual reasoning
 
 I also work on evaluating large multimodal models, especially in settings where

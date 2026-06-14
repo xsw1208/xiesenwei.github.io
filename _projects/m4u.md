@@ -3,7 +3,7 @@ layout: page
 title: M4U
 description: Evaluating multilingual understanding and reasoning for large multimodal models.
 img: assets/img/publication_preview/m4u.png
-importance: 4
+importance: 6
 category: evaluation
 related_publications: true
 ---
